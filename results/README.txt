@@ -1,0 +1,1 @@
+The results directory stores results from experiments. Experiments should be organized chronologically. Directories with results should be titled with the date of the experiment in the format YYYY-MM-DD. Notebook.html should contain observations, conclusions and idea for future work. Entries in the notebook should be dated with the format YYYY-MM-DD.
