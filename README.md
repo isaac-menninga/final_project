@@ -16,5 +16,7 @@ Each of these will be compared with the frequency of conflict events in each cou
 The flow of the program is outlined below.
 
 Data formatting and loading - loads climate data for each country, and the data about conflicts for each of those countries. The format for the data is pandas data frame. 
-Data analysis - for each climate variable, a simple regression and correlation analysis will be performed. This data will not be visualized at this stage, but instead will be compared between countries to see if the relationship between variables is similar in different countries. One set of tests will also be performed on the combined data from all the countries involved. 
+
+Data analysis - for each climate variable, a simple regression and correlation analysis will be performed. This data will not be visualized at this stage, but instead will be compared between countries to see if the relationship between variables is similar in different countries. One set of tests will also be performed on the combined data from all the countries involved.
+
 Data visualization - the results from above will be plotted. Most plots will be simple scatter plots, with lines of best fit overlaid. Other data will be visualized to show the variance in the data, and the strength of the correlation, if it exists. Plots will be saved in pdf format.
