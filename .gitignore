@@ -1,0 +1,3 @@
+data/climate/*
+bin/.ipynb_checkpoints/*
+data/.ipynb*
