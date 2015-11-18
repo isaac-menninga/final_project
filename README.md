@@ -1,6 +1,12 @@
 # Climate change and conflict
 ## Isaac Menninga, Nov. 2015, Quest University Canada
 
+## Usage: 
+bash shell.sh
+Script file is contained in the bin directory, outputs are saved in results directory.
+
+##Ten Minute Plan
+
 Climate change has many effects on natural systems. Rainfall, humidity, temperature and wind patterns will drastically change into the future. Each of these can affect a variety of things such as crop yield, human health, and infrastructure integrity. These effects will be felt soonest, and in the most extremes in developing countries, where people do not have access to the same infrastructure or technology for crisis response. As the effects of climate change continue to escalate in severity, billions of people may be displaced or unable to cope with the severe changes. The goal of the study is to determine if there is a relationship between climate change and the occurrence of conflict in developing countries. 
 
 The code analyzes data about climate change and conflict in 30 different countries in Africa. Five main variables will be assessed, for each country, to determine their interaction with the occurrence of conflict. These variables are:
