@@ -1,0 +1,52 @@
+% rainfall ocurring in 'heavy rainfall' events - Observed Data
+NaN indicates insufficient data is available
+Refer to Accompanying Documentation
+Average Climatology 1970-1999
+       Annual     DJF     MAM     JJA     SON
+        23.20     NaN     NaN     NaN     NaN
+Timeseries in anomalies relative to 1970-1999 mean (% of total rainfall)
+YEAR   Annual     DJF     MAM     JJA     SON
+1960      NaN     NaN     NaN     NaN     NaN
+1961     4.02     NaN     NaN     NaN     NaN
+1962     6.82     NaN     NaN     NaN     NaN
+1963    -3.52     NaN     NaN     NaN     NaN
+1964     0.74     NaN     NaN     NaN     NaN
+1965     0.90     NaN     NaN     NaN     NaN
+1966    -3.47     NaN     NaN     NaN     NaN
+1967     4.38     NaN     NaN     NaN     NaN
+1968    -4.32     NaN     NaN     NaN     NaN
+1969     2.64     NaN     NaN     NaN     NaN
+1970     1.02     NaN     NaN     NaN     NaN
+1971     8.80     NaN     NaN     NaN     NaN
+1972    -5.68     NaN     NaN     NaN     NaN
+1973   -13.07     NaN     NaN     NaN     NaN
+1974    14.18     NaN     NaN     NaN     NaN
+1975     0.77     NaN     NaN     NaN     NaN
+1976    -4.12     NaN     NaN     NaN     NaN
+1977     4.19     NaN     NaN     NaN     NaN
+1978     7.20     NaN     NaN     NaN     NaN
+1979    -1.60     NaN     NaN     NaN     NaN
+1980    -2.66     NaN     NaN     NaN     NaN
+1981    -4.16     NaN     NaN     NaN     NaN
+1982     6.08     NaN     NaN     NaN     NaN
+1983     0.86     NaN     NaN     NaN     NaN
+1984     2.76     NaN     NaN     NaN     NaN
+1985     3.60     NaN     NaN     NaN     NaN
+1986    -6.03     NaN     NaN     NaN     NaN
+1987    -5.55     NaN     NaN     NaN     NaN
+1988     6.37     NaN     NaN     NaN     NaN
+1989     8.78     NaN     NaN     NaN     NaN
+1990    -1.83     NaN     NaN     NaN     NaN
+1991     2.96     NaN     NaN     NaN     NaN
+1992    -2.00     NaN     NaN     NaN     NaN
+1993   -11.13     NaN     NaN     NaN     NaN
+1994     0.86     NaN     NaN     NaN     NaN
+1995      NaN     NaN     NaN     NaN     NaN
+1996    -2.39     NaN     NaN     NaN     NaN
+1997      NaN     NaN     NaN     NaN     NaN
+1998    -0.98     NaN     NaN     NaN     NaN
+1999    -7.22     NaN     NaN     NaN     NaN
+2000    -3.82     NaN     NaN     NaN     NaN
+2001      NaN     NaN     NaN     NaN     NaN
+2002      NaN     NaN     NaN     NaN     NaN
+2003      NaN     NaN     NaN     NaN     NaN

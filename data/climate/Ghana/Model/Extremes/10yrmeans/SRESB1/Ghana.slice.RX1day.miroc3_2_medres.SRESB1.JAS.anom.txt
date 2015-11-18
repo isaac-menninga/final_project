@@ -1,0 +1,20 @@
+Maximum 1-day rainfall - Model Simulations
+NaN indicates insufficient data is available
+Refer to Accompanying Documentation
+GRIDBOX LONGITUDES
+           5
+   -6.25   -3.75   -1.25    1.25    3.75
+GRIDBOX LATITUDES
+           4
+   11.25    8.75    6.25    3.75
+Timeseries in anomalies relative to 1970-1999 mean (mm)
+2060s
+    4.77    9.22    8.71    8.61   14.85
+   -2.93   -1.73   -3.62   -2.99    4.83
+   -6.22   -6.80  -10.20  -10.78   -6.24
+   -5.78   -6.94   -9.64  -11.80  -10.64
+2090s
+   22.28   18.65   18.21   18.76   17.61
+   19.22   26.61   26.24   19.07   14.03
+    8.28   14.20   13.24    9.14    9.98
+    8.41    7.54    4.17    0.04   -1.35

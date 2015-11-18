@@ -1,0 +1,55 @@
+Mean Monthly Precipitation - Observed Records - % Anomalies relative to 1971-2000 mean
+Refer to Accompanying Documentation
+NaN indicates insufficient data is available
+1970-1999 Climatology
+YEAR   Annual      JF     MAM    JJAS     OND
+         96.3    42.5   125.0   104.0    93.2
+Timeseries in anomalies relative to 1970-1999 mean (%)
+YEAR   Annual      JF     MAM    JJAS     OND
+1960    41.17   53.71   39.75   60.43   13.36
+1961    23.31   13.33   30.34    7.82   31.44
+1962    21.82   99.05   26.39    1.15    5.44
+1963    14.12   24.76   13.29   21.26    0.09
+1964     2.78  -41.55  -11.47   27.51    7.76
+1965    -4.41   20.66    9.68   -7.23  -31.19
+1966     4.45  -28.06    4.50   -0.00   18.49
+1967     4.42  -16.09   10.19    6.57   -0.33
+1968     9.26   12.74   19.77   17.74  -17.42
+1969    12.24  -36.31   15.91  -22.59   60.31
+1970    -6.86   57.74  -17.53    6.58  -35.34
+1971     4.27  -39.55   10.01    6.29    8.57
+1972   -17.74  -53.23  -33.95  -10.92    6.19
+1973     3.34  -14.67  -13.92   20.82    9.84
+1974     2.87   -5.41    6.95  -21.69   24.36
+1975    -5.24  -12.30    8.14    5.05  -33.01
+1976    11.11   44.08    3.96    5.80    9.94
+1977   -12.12   -0.52    9.40  -12.55  -45.39
+1978    20.38  -22.91   20.18    0.62   54.85
+1979      NaN   46.76    6.76     NaN     NaN
+1980      NaN     NaN     NaN     NaN     NaN
+1981      NaN     NaN     NaN     NaN     NaN
+1982      NaN     NaN     NaN     NaN     NaN
+1983      NaN     NaN     NaN     NaN     NaN
+1984      NaN     NaN     NaN     NaN     NaN
+1985      NaN     NaN     NaN     NaN     NaN
+1986      NaN     NaN     NaN     NaN     NaN
+1987      NaN     NaN     NaN     NaN     NaN
+1988      NaN     NaN     NaN     NaN     NaN
+1989      NaN     NaN     NaN     NaN     NaN
+1990      NaN     NaN     NaN     NaN     NaN
+1991      NaN     NaN     NaN     NaN     NaN
+1992      NaN     NaN     NaN     NaN     NaN
+1993      NaN     NaN     NaN     NaN     NaN
+1994      NaN     NaN     NaN     NaN     NaN
+1995      NaN     NaN     NaN     NaN     NaN
+1996      NaN     NaN     NaN     NaN     NaN
+1997      NaN     NaN     NaN     NaN     NaN
+1998      NaN     NaN     NaN     NaN     NaN
+1999      NaN     NaN     NaN     NaN     NaN
+2000      NaN     NaN     NaN     NaN     NaN
+2001      NaN     NaN     NaN     NaN     NaN
+2002      NaN     NaN     NaN     NaN     NaN
+2003      NaN     NaN     NaN     NaN     NaN
+2004      NaN     NaN     NaN     NaN     NaN
+2005      NaN     NaN     NaN     NaN     NaN
+2006      NaN     NaN     NaN     NaN     NaN

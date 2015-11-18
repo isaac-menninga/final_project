@@ -1,0 +1,22 @@
+Frequency of Cold Nights - Model Simulations
+NaN indicates insufficient data is available
+Refer to Accompanying Documentation
+GRIDBOX LONGITUDES
+           4
+   -3.75   -1.25    1.25    3.75
+GRIDBOX LATITUDES
+           5
+   13.75   11.25    8.75    6.25    3.75
+Timeseries (% days occurring)
+2060s
+    2.66    2.74    2.90    3.04
+    2.18    2.44    2.76    2.99
+    1.63    2.07    2.41    2.47
+    1.25    1.42    1.23    0.69
+    0.60    0.64    0.45    0.06
+2090s
+    0.92    0.88    1.24    1.96
+    0.91    0.84    1.00    1.44
+    0.99    0.88    0.76    0.73
+    0.88    0.66    0.43    0.22
+    0.44    0.31    0.17    0.03

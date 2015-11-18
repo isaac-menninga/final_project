@@ -1,0 +1,52 @@
+Frequency of Cold Nights - Observed Data
+NaN indicates insufficient data is available
+Refer to Accompanying Documentation
+Average Climatology 1970-1999
+       Annual     DJF     MAM     JJA     SON
+          NaN     NaN     NaN     NaN    7.42
+Timeseries (% days occurring)
+YEAR   Annual     DJF     MAM     JJA     SON
+1960      NaN     NaN     NaN     NaN     NaN
+1961      NaN     NaN     NaN     NaN   20.11
+1962      NaN     NaN     NaN     NaN   13.27
+1963      NaN     NaN     NaN     NaN   11.98
+1964      NaN     NaN     NaN     NaN   17.28
+1965      NaN     NaN     NaN     NaN   11.40
+1966      NaN     NaN     NaN     NaN   11.19
+1967      NaN     NaN     NaN     NaN   17.91
+1968      NaN     NaN     NaN     NaN   15.53
+1969      NaN     NaN     NaN     NaN   11.31
+1970      NaN     NaN     NaN     NaN    5.55
+1971      NaN     NaN     NaN     NaN    6.89
+1972      NaN     NaN     NaN     NaN    2.95
+1973      NaN     NaN     NaN     NaN   14.39
+1974      NaN     NaN     NaN     NaN    7.90
+1975      NaN     NaN     NaN     NaN   21.39
+1976      NaN     NaN     NaN     NaN    8.44
+1977      NaN     NaN     NaN     NaN    6.62
+1978      NaN     NaN     NaN     NaN    5.93
+1979      NaN     NaN     NaN     NaN    5.63
+1980      NaN     NaN     NaN     NaN    7.85
+1981      NaN     NaN     NaN     NaN    7.08
+1982      NaN     NaN     NaN     NaN     NaN
+1983      NaN     NaN     NaN     NaN    4.73
+1984      NaN     NaN     NaN     NaN    7.36
+1985      NaN     NaN     NaN     NaN    5.67
+1986      NaN     NaN     NaN     NaN    9.19
+1987      NaN     NaN     NaN     NaN    2.66
+1988      NaN     NaN     NaN     NaN    8.02
+1989      NaN     NaN     NaN     NaN    6.05
+1990      NaN     NaN     NaN     NaN    4.19
+1991      NaN     NaN     NaN     NaN     NaN
+1992      NaN     NaN     NaN     NaN     NaN
+1993      NaN     NaN     NaN     NaN     NaN
+1994      NaN     NaN     NaN     NaN     NaN
+1995      NaN     NaN     NaN     NaN     NaN
+1996      NaN     NaN     NaN     NaN     NaN
+1997      NaN     NaN     NaN     NaN     NaN
+1998      NaN     NaN     NaN     NaN     NaN
+1999      NaN     NaN     NaN     NaN     NaN
+2000      NaN     NaN     NaN     NaN     NaN
+2001      NaN     NaN     NaN     NaN     NaN
+2002      NaN     NaN     NaN     NaN     NaN
+2003      NaN     NaN     NaN     NaN     NaN

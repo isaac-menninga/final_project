@@ -1,0 +1,39 @@
+Mean Monthly Precipitation - Observed Climatology
+NaN indicates insufficient data is available
+Refer to Accompanying Documentation Pages XXX
+GRIDBOX LONGITUDES
+           5
+  -13.75  -11.25   -8.75   -6.25   -3.75
+GRIDBOX LATITUDES
+           5
+   11.25    8.75    6.25    3.75    1.25
+Annual
+   135.0   109.6    93.6    82.5    73.4
+   202.3   177.0   137.1   100.6    88.1
+   233.3   223.2   171.8   114.6   106.6
+     NaN   198.0   181.3   140.0   118.8
+     NaN     NaN     NaN     NaN     NaN
+JF
+     0.3     1.7     1.7     2.2     1.7
+     3.7    10.3    16.0    12.9    10.1
+    14.7    22.7    40.3    33.5    29.6
+     NaN    26.3    50.2    36.0    35.3
+     NaN     NaN     NaN     NaN     NaN
+MAM
+    29.0    46.3    47.0    49.1    48.0
+    73.4   111.0   112.2    93.3    98.2
+   116.5   147.0   155.1   138.7   145.6
+     NaN   157.5   176.7   162.9   159.1
+     NaN     NaN     NaN     NaN     NaN
+JJAS
+   333.2   256.1   220.2   192.6   168.5
+   460.6   360.0   265.1   192.3   153.6
+   492.5   435.9   288.0   159.8   138.3
+     NaN   355.7   278.3   187.6   142.2
+     NaN     NaN     NaN     NaN     NaN
+OND
+    66.6    49.4    32.9    22.6    19.9
+   119.2   110.2    72.3    44.1    42.6
+   150.0   149.6   121.1    84.3    76.8
+     NaN   142.7   143.8   123.1   103.1
+     NaN     NaN     NaN     NaN     NaN

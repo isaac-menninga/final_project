@@ -1,0 +1,20 @@
+Frequency of Hot Days - Model Simulations
+NaN indicates insufficient data is available
+Refer to Accompanying Documentation
+GRIDBOX LONGITUDES
+           4
+    6.25    8.75   11.25   13.75
+GRIDBOX LATITUDES
+           4
+    6.25    3.75    1.25   -1.25
+Timeseries (% days occurring)
+2060s
+   48.66   52.74   43.97   38.44
+   93.73   84.06   50.85   38.16
+   99.30   88.50   45.05   25.59
+   98.71   87.12   36.07   19.44
+2090s
+   67.73   79.33   76.43   72.32
+   97.88   95.67   82.25   74.10
+  100.00   95.42   74.56   58.76
+  100.00   91.83   57.23   45.68

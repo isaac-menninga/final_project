@@ -1,0 +1,22 @@
+Percentage of total rainfall ocurring in 'heavy' rainfall events - Model Simulations
+NaN indicates insufficient data is available
+Refer to Accompanying Documentation
+GRIDBOX LONGITUDES
+           6
+   21.25   23.75   26.25   28.75   31.25   33.75
+GRIDBOX LATITUDES
+           5
+   -8.75  -11.25  -13.75  -16.25  -18.75
+Timeseries in anomalies relative to 1970-1999 mean (% of total rainfall)
+2060s
+   -5.54    4.68   11.83    8.03  -14.93   -7.75
+  -19.28   -4.48    8.28   -9.26  -17.93   -4.85
+  -15.23  -10.74   -3.16  -12.18  -24.91   -7.13
+   -7.83  -11.36   -7.92  -13.62  -21.53   -7.88
+  -22.47  -27.92  -25.55  -23.74   -7.44   -6.32
+2090s
+  -25.29  -26.92  -28.48  -22.55  -25.10  -24.42
+  -33.70  -19.49  -22.60  -25.08  -26.44  -23.53
+  -23.67  -10.60  -17.83  -21.57  -25.06  -16.16
+  -20.82  -22.22  -28.76  -31.05  -27.30  -11.76
+  -37.79  -38.20  -43.04  -36.36  -16.21  -12.72

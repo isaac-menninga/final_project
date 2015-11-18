@@ -1,0 +1,20 @@
+Frequency of Cold Days - Model Simulations
+NaN indicates insufficient data is available
+Refer to Accompanying Documentation
+GRIDBOX LONGITUDES
+           5
+   -6.25   -3.75   -1.25    1.25    3.75
+GRIDBOX LATITUDES
+           4
+   11.25    8.75    6.25    3.75
+Timeseries (% days occurring)
+2060s
+    2.80    3.09    3.33    3.76    3.95
+    4.25    4.62    4.74    4.93    4.78
+    4.25    3.59    3.77    3.90    3.48
+    1.01    0.10    0.07    0.07    0.06
+2090s
+    5.99    6.94    7.11    6.94    6.28
+    5.03    6.21    5.97    6.33    5.90
+    3.23    2.95    2.98    3.57    3.32
+    0.60    0.04    0.05    0.06    0.05

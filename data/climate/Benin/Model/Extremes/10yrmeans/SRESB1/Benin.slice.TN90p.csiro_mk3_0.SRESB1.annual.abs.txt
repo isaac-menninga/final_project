@@ -1,0 +1,22 @@
+Frequency of Hot Nights - Model Simulations
+NaN indicates insufficient data is available
+Refer to Accompanying Documentation
+GRIDBOX LONGITUDES
+           4
+   -1.25    1.25    3.75    6.25
+GRIDBOX LATITUDES
+           5
+   13.75   11.25    8.75    6.25    3.75
+Timeseries (% days occurring)
+2060s
+   24.81   25.21   24.91   26.19
+   26.19   27.54   27.43   29.40
+   26.76   27.66   27.43   30.22
+   29.52   30.28   31.22   32.98
+   38.47   40.85   40.82   40.83
+2090s
+   32.85   33.55   33.67   35.80
+   36.64   38.51   39.06   41.47
+   38.09   39.55   40.27   44.78
+   38.22   39.19   41.67   46.25
+   50.06   51.73   52.93   53.60

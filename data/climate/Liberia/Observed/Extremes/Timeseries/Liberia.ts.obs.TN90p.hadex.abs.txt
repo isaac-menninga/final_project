@@ -1,0 +1,52 @@
+Frequency of Hot Nights - Observed Data
+NaN indicates insufficient data is available
+Refer to Accompanying Documentation
+Average Climatology 1970-1999
+       Annual     DJF     MAM     JJA     SON
+        12.63     NaN   12.38     NaN     NaN
+Timeseries (% days occurring)
+YEAR   Annual     DJF     MAM     JJA     SON
+1960     5.78     NaN    1.11     NaN     NaN
+1961     4.53     NaN    6.38     NaN     NaN
+1962     5.11     NaN    1.73     NaN     NaN
+1963    10.44     NaN    3.24     NaN     NaN
+1964     5.50     NaN    3.59     NaN     NaN
+1965     4.18     NaN    0.72     NaN     NaN
+1966     6.12     NaN    2.68     NaN     NaN
+1967     3.36     NaN    2.26     NaN     NaN
+1968     7.62     NaN    1.75     NaN     NaN
+1969     9.59     NaN   14.15     NaN     NaN
+1970     8.38     NaN    7.78     NaN     NaN
+1971     6.20     NaN    5.93     NaN     NaN
+1972     7.13     NaN    3.45     NaN     NaN
+1973    16.03     NaN   14.42     NaN     NaN
+1974     4.48     NaN    7.16     NaN     NaN
+1975     1.89     NaN    1.65     NaN     NaN
+1976     2.31     NaN    1.96     NaN     NaN
+1977     9.18     NaN   12.20     NaN     NaN
+1978     5.52     NaN    3.15     NaN     NaN
+1979    10.67     NaN   12.08     NaN     NaN
+1980    12.99     NaN   11.20     NaN     NaN
+1981     9.51     NaN   10.49     NaN     NaN
+1982     6.34     NaN    3.33     NaN     NaN
+1983    18.36     NaN   29.97     NaN     NaN
+1984    15.19     NaN   19.64     NaN     NaN
+1985    15.47     NaN   15.81     NaN     NaN
+1986     7.38     NaN    7.90     NaN     NaN
+1987    24.99     NaN   23.81     NaN     NaN
+1988    18.97     NaN   33.85     NaN     NaN
+1989    12.26     NaN    7.85     NaN     NaN
+1990    19.88     NaN   21.06     NaN     NaN
+1991    15.55     NaN   15.88     NaN     NaN
+1992     8.55     NaN    8.16     NaN     NaN
+1993    15.77     NaN   14.71     NaN     NaN
+1994    10.70     NaN   14.55     NaN     NaN
+1995    16.80     NaN   14.70     NaN     NaN
+1996    16.75     NaN   16.15     NaN     NaN
+1997    19.49     NaN    7.80     NaN     NaN
+1998    27.15     NaN     NaN     NaN     NaN
+1999    15.11     NaN     NaN     NaN     NaN
+2000    14.84     NaN     NaN     NaN     NaN
+2001      NaN     NaN     NaN     NaN     NaN
+2002      NaN     NaN     NaN     NaN     NaN
+2003      NaN     NaN     NaN     NaN     NaN
